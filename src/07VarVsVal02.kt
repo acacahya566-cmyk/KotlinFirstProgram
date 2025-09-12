@@ -5,5 +5,6 @@ fun main(args: Array<String>) {
     varVariabel = 78 //assigning second value to varVariabel
     println("Pemberian nilai kedua pada varVariabel = "+varVariabel)
     val phi = 3.14
-    phi = 2.5
+    //phi : 2.5
+    //nilai phi(konstanta hanya dapat diberikan nilai satu kali jika lebih maka akan eror)
 }
